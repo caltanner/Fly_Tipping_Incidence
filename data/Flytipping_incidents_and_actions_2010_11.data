@@ -1,8 +1,8 @@
---- 
+---
 category: data
-filename: Flytipping_incidents_and_actions_2010_11.csv 
+filename: Flytipping_incidents_and_actions_2010_11.csv
 weight: 1
 title: Flytipping_incidents_2010_11
 description: Flytipping incidents by Local Authority, flytipping types and prosecutions.
-type: text/csv 
---- 
+type: text/csv
+---
